@@ -4,9 +4,9 @@ Antrenarea modelului: s-a realizat cu ajutorul datelor din train.csv.
 
 Preprocesarea textului:
 
-eliminare stop words (ex: dans, pour, est, etc).
+    -eliminare stop words (ex: dans, pour, est, etc).
 
-utilizare TfidVectorizer pentru a  transforma textul in reprezentari numerice.
+    -utilizare TfidVectorizer pentru a  transforma textul in reprezentari numerice.
 
 Setul de date primit a fost impartit in 20% date de validare (pentru evaluarea performantei) si 80% date de antrenare.
 
