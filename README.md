@@ -1,18 +1,18 @@
 Solutia propusa:
 
-Antrenarea modelului: s-a realizat cu ajutorul datelor din train.csv.
+1. Antrenarea modelului: s-a realizat cu ajutorul datelor din train.csv.
 
-Preprocesarea textului:
+2. Preprocesarea textului:
 
-    -eliminare stop words (ex: dans, pour, est, etc).
+-eliminare stop words (ex: dans, pour, est, etc).
 
-    -utilizare TfidVectorizer pentru a  transforma textul in reprezentari numerice.
+-utilizare TfidVectorizer pentru a  transforma textul in reprezentari numerice.
 
-Setul de date primit a fost impartit in 20% date de validare (pentru evaluarea performantei) si 80% date de antrenare.
+3. Setul de date primit a fost impartit in 20% date de validare (pentru evaluarea performantei) si 80% date de antrenare.
 
-Modelul folosit: Logistic Regression.
+4. Modelul folosit: Logistic Regression.
 
-Evaluarea s-a realizat pe baza acuratetii.
+5. Evaluarea s-a realizat pe baza acuratetii.
 
 
 Acuratete = Nr. predictii corecte / Nr. total de exemple
